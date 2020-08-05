@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852627882964",
+    "firebase_url": "https://videochat-96084.firebaseio.com",
+    "project_id": "videochat-96084",
+    "storage_bucket": "videochat-96084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852627882964:android:8a962a2d904773268a0c41",
+        "android_client_info": {
+          "package_name": "com.obiangetfils.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852627882964-02cn48amjk8s0m75rc3diic6h37d08rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4N93kJv9r8d6bSFdHaccjOewTc703X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852627882964-02cn48amjk8s0m75rc3diic6h37d08rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
